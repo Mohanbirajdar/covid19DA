@@ -4,7 +4,7 @@
 
 This project analyzes COVID-19 pandemic data using Python and Pandas. It's a practical data analysis exercise that demonstrates how to work with real-world health data to extract meaningful insights about the spread and impact of COVID-19 across different regions.
 
-**Data Period**: Records as of 29-April-2020
+**Data Period**: Records as of 29-Apr-2020
 
 ## 📊 Dataset
 
